@@ -1,0 +1,17 @@
+
+
+Encoder	KEYWORD1
+
+getDistance	KEYWORD2
+getSpeed	KEYWORD2
+getCount	KEYWORD2
+setTimeout	KEYWORD2
+reset	KEYWORD2
+getDistancePerCount	KEYWORD2
+stopped	KEYWORD2
+direction	KEYWORD2
+
+encoderEvent	KEYWORD3
+
+
+bool	KEYWORD2

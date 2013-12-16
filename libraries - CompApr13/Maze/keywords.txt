@@ -1,0 +1,15 @@
+Maze	KEYWORD1
+Tile	KEYWORD1
+
+update	KEYWORD2
+getTile	KEYWORD2
+size	KEYWORD2
+
+getX	KEYWORD2
+getY	KEYWORD2
+getXCoord	KEYWORD2
+getYCoord	KEYWORD2
+setWalls	KEYWORD2
+getWall	KEYWORD2
+angleTo	KEYWORD2
+distanceTo	KEYWORD2
